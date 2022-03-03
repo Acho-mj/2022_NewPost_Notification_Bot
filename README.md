@@ -1,6 +1,5 @@
 # New-post-notification-Bot / 학교 홈페이지 새 글 알림봇
 
-------------
 # *사용한 언어와 툴
 
 Java, eclipse, Heroku, Discord
@@ -11,6 +10,5 @@ Java, eclipse, Heroku, Discord
 신경써야할 것이 많은 1학년 때 공지를 놓치지 않기 위함과 자바를 이용하여 크롤링에 도전하는 것에 중점을 두었다.
 이 알림봇은 홈페이지를 일일이 들어갈 필요가 없기 때문에 편리를 제공한다
 
------------
 더 자세한 내용은 
 https://acho.tistory.com/4
